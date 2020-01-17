@@ -8,3 +8,4 @@
 6. [Vue监听对象的变化(深度监听)](https://github.com/powerdong/myProblems/issues/6)
 7. [js 判断一个 object 对象是否为空](https://github.com/powerdong/myProblems/issues/7)
 8. [javaScript遍历对象总结](https://github.com/powerdong/myProblems/issues/8)
+9. [JS删除对象中的某一属性](https://github.com/powerdong/myProblems/issues/9)
