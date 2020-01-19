@@ -9,3 +9,4 @@
 7. [js 判断一个 object 对象是否为空](https://github.com/powerdong/myProblems/issues/7)
 8. [javaScript遍历对象总结](https://github.com/powerdong/myProblems/issues/8)
 9. [JS删除对象中的某一属性](https://github.com/powerdong/myProblems/issues/9)
+10. [vue 改变数组对象不重新渲染dom](https://github.com/powerdong/myProblems/issues/10)
