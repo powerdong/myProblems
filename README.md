@@ -11,3 +11,4 @@
 9. [JS删除对象中的某一属性](https://github.com/powerdong/myProblems/issues/9)
 10. [vue 改变数组对象不重新渲染dom](https://github.com/powerdong/myProblems/issues/10)
 11. [在Vue中使用filter如何获取到data中的值](https://github.com/powerdong/myProblems/issues/11)
+12. [JS小数问题](https://github.com/powerdong/myProblems/issues/12)
