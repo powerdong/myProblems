@@ -27,5 +27,5 @@
 25. [WebPack生命周期](https://github.com/powerdong/myProblems/issues/25)
 26. [对时间对象进行排序](https://github.com/powerdong/myProblems/issues/26)
 27. [vant 手机端时间插件点击自带键盘和选择时间表同时弹出](https://github.com/powerdong/myProblems/issues/27)
-
+28. [Vue 清空data数据](https://github.com/powerdong/myProblems/issues/28)
 
