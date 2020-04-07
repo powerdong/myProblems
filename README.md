@@ -31,3 +31,4 @@
 29. [JS用正则将小写字母转换为大写](https://github.com/powerdong/myProblems/issues/29)
 30. [移动端1px实现](https://github.com/powerdong/myProblems/issues/30)
 31. [Vue 路由跳转](https://github.com/powerdong/myProblems/issues/31)
+32. [移动端常用点击效果](https://github.com/powerdong/myProblems/issues/32)
