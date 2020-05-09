@@ -33,3 +33,7 @@
 31. [Vue 路由跳转](https://github.com/powerdong/myProblems/issues/31)
 32. [移动端常用点击效果](https://github.com/powerdong/myProblems/issues/32)
 33. [input框取消显示历史记录](https://github.com/powerdong/myProblems/issues/33)
+34. [React 修改 state中对象](https://github.com/powerdong/myProblems/issues/34)
+35. [React 点击传值](https://github.com/powerdong/myProblems/issues/35)
+36. [表单常用技巧](https://github.com/powerdong/myProblems/issues/36)
+37. [初始化月份对象](https://github.com/powerdong/myProblems/issues/37)
